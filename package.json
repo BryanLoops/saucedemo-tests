@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-tests",
+  "version": "1.0.0",
+  "description": "tests for saucedemo using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Lopes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
